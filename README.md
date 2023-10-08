@@ -16,6 +16,6 @@
 Зашифруйте созданный раздел с помощью LUKS.
 В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.
 
-![2.png](https://github.com/Skiledqo/sdb-13.02/blob/main/2.png)
+![2.jpg](https://github.com/Skiledqo/sdb-13.02/blob/main/2.jpg)
 
-![3.png](https://github.com/Skiledqo/sdb-13.02/blob/main/3.png)
+![3.jpg](https://github.com/Skiledqo/sdb-13.02/blob/main/3.jpg)
